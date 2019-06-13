@@ -20,3 +20,9 @@ It contains the next work:
    - Partials
 6. Very basic styling, the project was more about the back-end structure
 7. Uploaded via Heroku CLI
+
+Task list of updates:
+- [ ] Add testing files
+- [ ] Retrive more data to render
+- [ ] Refactor codebase with ES6 features, if possible
+- [ ] Improve the styling
