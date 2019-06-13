@@ -19,3 +19,4 @@ It contains the next work:
    - Views
    - Partials
 6. Very basic styling, the project was more about the back-end structure
+7. Uploaded via Heroku CLI
